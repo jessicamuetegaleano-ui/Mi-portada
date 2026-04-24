@@ -1,6 +1,6 @@
-<img width="308" height="412" alt="image" src="https://github.com/user-attachments/assets/dd13ac55-6e1f-45da-9261-8c3a06772106" />
+<img width="173" height="233" alt="image" src="https://github.com/user-attachments/assets/1d8d3949-eca6-49df-8287-9db8392588cb" />
 
-# 📊 Jessica Alejandra Muete Galeano
+#📊 Jessica Alejandra Muete Galeano
 ### Analista de Datos Junior | Data Analytics | Business Intelligence
 
 ---
