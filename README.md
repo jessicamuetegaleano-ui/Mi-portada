@@ -1,6 +1,6 @@
 <img width="173" height="233" alt="image" src="https://github.com/user-attachments/assets/1d8d3949-eca6-49df-8287-9db8392588cb" />
 
-#📊 Jessica Alejandra Muete Galeano
+# 📊 Jessica Alejandra Muete Galeano
 ### Analista de Datos Junior | Data Analytics | Business Intelligence
 
 ---
@@ -15,9 +15,6 @@ Soy una profesional orientada al **detalle** con formación en:
 - 💡 Generación de insights claros para la toma de decisiones
 
 Actualmente en proceso de aprendizaje de **Python, Pandas y SQL** para fortalecer mi análisis estadístico y automatización de tareas.
-
-### Mi enfoque
-Tengo habilidades de **comunicación efectiva**, **trabajo en equipo** y **resolución de problemas** en entornos dinámicos. Aprendo rápidamente y busco aportar valor con análisis que generen impacto en la toma de decisiones.
 
 ---
 
@@ -69,18 +66,6 @@ Me interesa **iniciar mi carrera como Analista de Datos Junior**, donde pueda:
 
 ---
 
-## 🌟 Intereses Personales
-
-En mi tiempo libre disfruto:
-- 🎬 Películas basadas en historias reales y documentales de crímenes
-- 👨‍🍳 Cocinar y experimentar nuevas recetas
-- 📚 Leer novelas románticas
-- 💻 Aprender nuevas herramientas tecnológicas
-- 📈 Fortalecer mis habilidades en análisis de datos
-- 🚀 Mantenerme en constante crecimiento profesional
-
----
-
 ## 📫 Contacto
 
 ¿Hablamos? Puedes encontrarme en:
@@ -90,12 +75,6 @@ En mi tiempo libre disfruto:
 💼 **LinkedIn:** [Jessica Alejandra Muete Galeano](https://linkedin.com/in/jessica-alejandra-muete-galeano-9b2b7621a)
 
 📱 **GitHub:** [@jessicamuetegaleano-ui](https://github.com/jessicamuetegaleano-ui)
-
----
-
-## 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamuetegaleano-ui&show_icons=true&theme=radical)
 
 ---
 
